@@ -1,3 +1,33 @@
-.titulo{
-    color: brown;
+.contenedor-navegador{
+    width: 100%;
+    height: 80px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+
+
+}
+
+.menu{
+    width: 80%;
+    /* height: auto; */
+    background-color: red;
+    display: flex;
+}
+
+.contenedor-logo{
+    width: 20%;
+    background-color:salmon;
+
+
+}
+.contenedor-boton1{
+    width: 60%;
+    background-color: slateblue;
+}
+
+.contenedor-boton2{
+    width: 20%;
+    background-color: turquoise;
 }
